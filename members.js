@@ -1,3 +1,4 @@
+// hola
 function skillMembers()
 {
     var skill = document.getElementById("skill").value;
